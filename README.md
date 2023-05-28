@@ -5,9 +5,6 @@ Web based editor to create Resume in a customizable template with the facility t
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
 
-  
-###### Live Demo : https://vinaysomawat.github.io/Resume-Builder/
-
 ###### Technologies: HTML, CSS, JavaScript
 
 
